@@ -1,0 +1,2 @@
+Some BuildingArea > Landsize ?
+Some Landsize=0 ?

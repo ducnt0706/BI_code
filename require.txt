@@ -1,0 +1,6 @@
+1.Remove empty column
+2.Remove unnessesary column
+3.Remove rows has empty fields
+4.Collect values (boundary,mean,median,..)
+5.Covert Upercase <-> Lowercase
+6.truncate long texts
